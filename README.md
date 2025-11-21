@@ -28,3 +28,5 @@ BACK-END
     -base.html: Este é o template base que conterá a estrutura geral da sua aplicação (cabeçalho, rodapé, navegação). Outros templates irão "herdar" ou "estender" este template para reutilizar o layout.
     -index.html: O template da página inicial da sua aplicação.
     outros_templates.html: Exemplo de outros templates HTML necessários para diferentes páginas ou componentes da aplicação.
+
+só pra testar
